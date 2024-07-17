@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 """
 This module contains a Cache class that provides basic Redis caching functionality.
 """
